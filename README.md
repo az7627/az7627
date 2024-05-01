@@ -1,5 +1,6 @@
-欢迎你来到我的个人页面，你好。
+欢迎你来到我的个人页面，你好。这里有一些关于我的统计信息
 
-~~但是由于这个屑实在不知道该写点什么~~，这个页面暂时不会有太多的东西。
+![azaz-az's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaz-az&show_icons=true&theme=tokyonlight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaz-az)
 
-总而言之，如果你想要联系我，可以给我的个人邮箱[a233d@outlook.com](a233d@outlook.com)发邮件。
+如果你想要联系我，可以给我的个人邮箱[a233d@outlook.com](a233d@outlook.com)发邮件。
