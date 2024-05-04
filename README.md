@@ -22,10 +22,10 @@
 
 由我自己创建的仓库：
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=holiday-predictor&theme=tokyonight)](https://github.com/azaz-az/holiday-predictor&locale=cn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Easy-access-for-the-lock-screen-page&theme=tokyonight)](https://github.com/azaz-az/Easy-access-for-the-lock-screen-page&locale=cn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=holiday-predictor&theme=tokyonight)](https://github.com/azaz-az/holiday-predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Easy-access-for-the-lock-screen-page&theme=tokyonight)](https://github.com/azaz-az/Easy-access-for-the-lock-screen-page)
 
 Fork 的其他人的仓库:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Minecraft-Server-Ports-Scanner-GUI&theme=tokyonight)](https://github.com/azaz-az/Minecraft-Server-Ports-Scanner-GUI&locale=cn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Minecraft_New_Texture_In_Old_Version&theme=tokyonight)](https://github.com/azaz-az/Minecraft_New_Texture_In_Old_Version&locale=cn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Minecraft-Server-Ports-Scanner-GUI&theme=tokyonight)](https://github.com/azaz-az/Minecraft-Server-Ports-Scanner-GUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Minecraft_New_Texture_In_Old_Version&theme=tokyonight)](https://github.com/azaz-az/Minecraft_New_Texture_In_Old_Version)
