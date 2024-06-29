@@ -27,7 +27,7 @@
 
 ### Contact Me
 
-如果你想要联系我，可以给我的个人邮箱[a233d@outlook.com](a233d@outlook.com)发邮件。
+如果你想要联系我，可以给我的个人邮箱[a233d@outlook.com](mailto:a233d@outlook.com)发邮件。
 
 或者，你也可以在我的 Discussions 留言。
 
