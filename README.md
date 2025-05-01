@@ -7,20 +7,20 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px">
         <img
           align=center
-          src="https://img.shields.io/github/stars/azaz-az?style=for-the-badge&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+          src="https://img.shields.io/github/stars/az7627?style=for-the-badge&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
           style="margin: 0 5px"
         />
         <img
           align=center
-          src="https://img.shields.io/github/followers/azaz-az?style=for-the-badge&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
+          src="https://img.shields.io/github/followers/az7627?style=for-the-badge&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
           style="margin: 0 5px"
         />
 </div>
 
 <br>
 
-![azaz-az's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaz-az&show_icons=true&theme=tokyonight&locale=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaz-az&theme=tokyonight&locale=cn)
+![az7627's GitHub stats](https://github-readme-stats.vercel.app/api?username=az7627&show_icons=true&theme=tokyonight&locale=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az7627&theme=tokyonight&locale=cn)
 
 
 ***
@@ -31,7 +31,7 @@
 
 或者，你也可以在我的 Discussions 留言。
 
-[![Click To Discussions](https://img.shields.io/badge/click_to-discussions-%2300fffd?style=for-the-badge)](https://github.com/azaz-az/azaz-az/discussions)
+[![Click To Discussions](https://img.shields.io/badge/click_to-discussions-%2300fffd?style=for-the-badge)](https://github.com/az7627/az7627/discussions)
 
 ***
 
@@ -39,10 +39,10 @@
 
 由我自己创建的仓库：
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=holiday-predictor&theme=tokyonight)](https://github.com/azaz-az/holiday-predictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Easy-access-for-the-lock-screen-page&theme=tokyonight)](https://github.com/azaz-az/Easy-access-for-the-lock-screen-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=holiday-predictor&theme=tokyonight)](https://github.com/az7627/holiday-predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Easy-access-for-the-lock-screen-page&theme=tokyonight)](https://github.com/az7627/Easy-access-for-the-lock-screen-page)
 
 Fork 的其他人的仓库:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Minecraft-Server-Ports-Scanner-GUI&theme=tokyonight)](https://github.com/azaz-az/Minecraft-Server-Ports-Scanner-GUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azaz-az&repo=Minecraft_New_Texture_In_Old_Version&theme=tokyonight)](https://github.com/azaz-az/Minecraft_New_Texture_In_Old_Version)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Minecraft-Server-Ports-Scanner-GUI&theme=tokyonight)](https://github.com/az7627/Minecraft-Server-Ports-Scanner-GUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Minecraft_New_Texture_In_Old_Version&theme=tokyonight)](https://github.com/az7627/Minecraft_New_Texture_In_Old_Version)
