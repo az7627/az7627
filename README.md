@@ -37,12 +37,10 @@
 
 ### Pinned Repositories
 
-由我自己创建的仓库：
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=holiday-predictor&theme=tokyonight)](https://github.com/az7627/holiday-predictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Easy-access-for-the-lock-screen-page&theme=tokyonight)](https://github.com/az7627/Easy-access-for-the-lock-screen-page)
 
-Fork 的其他人的仓库:
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=lucky-dog&theme=tokyonight)](https://github.com/az7627/lucky-dog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Minecraft-Server-Ports-Scanner-GUI&theme=tokyonight)](https://github.com/az7627/Minecraft-Server-Ports-Scanner-GUI)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Minecraft_New_Texture_In_Old_Version&theme=tokyonight)](https://github.com/az7627/Minecraft_New_Texture_In_Old_Version)
