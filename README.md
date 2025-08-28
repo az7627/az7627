@@ -34,10 +34,3 @@
 [![Click To Discussions](https://img.shields.io/badge/click_to-discussions-%2300fffd?style=for-the-badge)](https://github.com/az7627/az7627/discussions)
 
 ***
-
-### Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=holiday-predictor&theme=tokyonight)](https://github.com/az7627/holiday-predictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=Easy-access-for-the-lock-screen-page&theme=tokyonight)](https://github.com/az7627/Easy-access-for-the-lock-screen-page)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=az7627&repo=lucky-dog&theme=tokyonight)](https://github.com/az7627/lucky-dog)
