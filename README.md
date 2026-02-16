@@ -34,3 +34,8 @@
 [![Click To Discussions](https://img.shields.io/badge/click_to-discussions-%2300fffd?style=for-the-badge)](https://github.com/az7627/az7627/discussions)
 
 ***
+
+### 其他
+
+> 我去，我今天访问 GitHub 出奇得快，裸连下载 Releases 30MB/s，新年礼物说是。
+> 编辑于 2026/2/16（腊月廿九，除夕） 19:29 (UTC+8)
