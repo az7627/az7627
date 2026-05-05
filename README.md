@@ -4,23 +4,8 @@
 
 ### Stats of Me
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px">
-        <img
-          align=center
-          src="https://img.shields.io/github/stars/az7627?style=for-the-badge&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
-          style="margin: 0 5px"
-        />
-        <img
-          align=center
-          src="https://img.shields.io/github/followers/az7627?style=for-the-badge&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)""
-          style="margin: 0 5px"
-        />
-</div>
-
-<br>
-
-![az7627's GitHub stats](https://github-readme-stats.vercel.app/api?username=az7627&show_icons=true&theme=tokyonight&locale=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az7627&theme=tokyonight&locale=cn)
+![az7627's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=az7627&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=az7627&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
 ***
